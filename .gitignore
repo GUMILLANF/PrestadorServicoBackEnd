@@ -1,0 +1,14 @@
+PrestadorServico.Api/bin
+PrestadorServico.Api/obj
+# PrestadorServico.Api/appsettings.Development.json
+# PrestadorServico.Api/appsettings.json
+
+PrestadorServico.Domain/bin
+PrestadorServico.Domain/obj
+
+PrestadorServico.Infra/bin
+PrestadorServico.Infra/obj
+
+PrestadorServico.Test/bin
+PrestadorServico.Test/obj
+
